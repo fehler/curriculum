@@ -60,9 +60,9 @@ Indicative lecture content includes:
 ###Required
 
 + McCloud, Scott, 1994. [Understanding Comics: The Invisible Art.](http://www.amazon.co.uk/exec/obidos/ASIN/006097625X/standardista-21) London: HarperCollins.
-+ Mills, Robert, 2012. [A Practical Guide to Designing the Invisible.](http://www.fivesimplesteps.com/products/a-practical-guide-to-designing-the-invisible) Penarth: Five Simple Steps
-+ Murphy, C. and Persson, N., 2013. [The Craft of Words: Part One - Macrocopy.](http://www.fivesimplesteps.com/products/the-craft-of-words) Penarth: Five Simple Steps
-+ Murphy, C. and Persson, N., 2013. [The Craft of Words: Part Two - Microcopy.](http://www.fivesimplesteps.com/products/the-craft-of-words-microcopy) Penarth: Five Simple Steps
++ Mills, Robert, 2012. [A Practical Guide to Designing the Invisible.](http://www.fivesimplesteps.com/products/a-practical-guide-to-designing-the-invisible) Penarth: Five Simple Steps.
++ Murphy, C. and Persson, N., 2013. [The Craft of Words: Part One - Macrocopy.](http://www.fivesimplesteps.com/products/the-craft-of-words) Penarth: Five Simple Steps.
++ Murphy, C. and Persson, N., 2013. [The Craft of Words: Part Two - Microcopy.](http://www.fivesimplesteps.com/products/the-craft-of-words-microcopy) Penarth: Five Simple Steps.
 	
 	
 ###Recommended
@@ -70,6 +70,7 @@ Indicative lecture content includes:
 + Duckett, J., 2014. [JavaScript & JQuery: Interactive Front-end Web Development.](http://www.amazon.co.uk/exec/obidos/ASIN/1118531647/standardista-21)
 London: John Wiley & Sons.
 + Head, V., 2013. [CSS Animations](http://www.fivesimplesteps.com/products/css-animations) Penarth: Five Simple Steps.
++ Flanagan, D., 2012. [JavaScript Pocket Reference.](http://www.amazon.co.uk/exec/obidos/ASIN/1449316859/standardista-21) San Francisco: O'Reilly.
 
 
 ###Web Sites

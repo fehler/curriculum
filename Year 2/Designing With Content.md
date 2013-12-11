@@ -36,13 +36,9 @@ The essential aims of this module are:
 
 ##Content
 
-This module focuses on equipping students with an understanding of how content can be shaped as a core part of the design process. Students are supported through a weekly lecture programme, coupled with practical exercises, that are designed to broaden their knowledge and understanding of content and how it can be designed.
+This module focuses on equipping students with an understanding of how content can be shaped as a core part of the design process. Students are supported through a weekly lecture programme, coupled with practical exercises, that are designed to broaden their knowledge and understanding of what content is, where it might come from, and how it might be designed.
 
-Lecture and seminar content are centred on developing students’ understanding of content strategy and through a series of practical exercises, students are taken on a content journey, from creation to shaping it and giving it form.
-
-Students are guided through the theoretical and practical applications of designing with content. Lectures are complemented by supporting seminars and practical sessions where students gain experience with the necessary tools and skills to firstly create original content, before giving it structure, drawing relationships between different content types, before, finally, shaping it and giving it form.
-
-<!-- The above needs to be tightened up. Too much repetition. -->
+Through a series of practical exercises, students are taken on a content journey, from creation, through shaping it, to giving it form. Lectures are complemented by supporting seminars and practical sessions where students gain experience with the necessary tools and skills to firstly create original content, before giving it structure, drawing relationships between different content types, before, finally, shaping it and giving it form.
 
 Indicative lecture content includes:
 
@@ -74,4 +70,9 @@ Indicative lecture content includes:
 + Powers, D., 2010. [PHP Solutions: Dynamic Web Design Made Easy .](http://www.amazon.co.uk/exec/obidos/ASIN/1430232498/standardista-21) Berkeley: friends of ED.
 
 
+###Web Sites
+
++ Codecademy, PHP Track: http://www.codecademy.com/tracks/php
++ Foundational PHP: http://foundationphp.com/tutorials.php
++ Smashing Coding: http://coding.smashingmagazine.com
 

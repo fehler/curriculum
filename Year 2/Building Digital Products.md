@@ -1,0 +1,67 @@
+Building Digital Products
+=========================
+
++ __Year:__ 2
++ __Semester:__ 2
++ __Credits:__ 20 Credits
++ __Delivery:__ Lectures, Seminars, Workshops and Self-Directed Study
++ __Co-requisites:__ Designing With Content
+
+
+##Rationale
+
+This module introduces students to the ideas and principles, which underpin creative entrepreneurship, placing a heavy focus on the emerging and rapidly growing field of digital product design.
+
+Through a focus on companies and individuals that have built digital products – from the very large (for example, global tools like Facebook and Twitter) to the very small (for example, sole designers developing products like icons and typefaces) – students are encouraged to develop an entrepreneurial mindset.
+
+Through a series of interconnected lectures, seminars and workshops, students are introduced to the wide range of theories and tools that underpin the contemporary digital entrepreneur.
+
+In addition to providing students with a holistic understanding of the nature of entrepreneurship, the module also introduces fundamental product and business-focused content, including: idea generation; market research; intellectual property (IP); business support networks and funding applications; pricing models; time management; and presentation and pitching skills.
+
+
+##Aims
+
+The essential aims of this module are:
+
++ To demonstrate a clear understanding of digital product design and the commercial opportunities it offers.
++ To introduce a variety of idea generation tools.
++ To underline the importance of thinking through paper, through sketching wireframes and user journeys.
++ To demonstrate the importance of market research to understand users’ needs.
++ To introduce a variety of pricing approaches, from free to paid.
++ To demonstrate skills in written and verbal communication.
+
+
+##Content 
+
+Students are supported through a weekly lecture programme that is designed to broaden their knowledge and understanding. The lecture programme covers the wide range of theories and tools that the contemporary digital entrepreneur's needs. Using Alexander Osterwalder and Yves Pigneur’s _Business Model Generation: A Handbook for Visionaries, Game Changers, and Challengers_ we introduce the students to the fundamental stages involved in building a successful business.
+
+The module draws on material from the University’s successful MFA Multidisciplinary Design course, which has spun out a number of successful digital startups. By touching on content covered on the MFA programme, students are not only introduced to creative entrepreneuurship, but are made aware of the opportunities to extend their study and build a digital business on the MFA.
+
+Indicative lecture content includes:
+
++ Idea Generation
++ Market Research
++ Structured Interviews and Questionnaires
++ Intellectual Property (IP)
++ Business Support Networks
++ Grant and Funding Applications
++ Pricing Models
++ Time Management
++ Presentation Skills
+
+
+##Reading List
+
+###Required
+
++ Osterwalder, A., and Pigneur, Y., 2010. [Business Model Generation: A Handbook for Visionaries, Game Changers, and Challengers.](http://www.amazon.co.uk/exec/obidos/ASIN/0470876417/standardista-21) London: John Wiley & Sons.
++ Drucker, P., 2008. [Managing Oneself.](http://www.amazon.co.uk/exec/obidos/ASIN/142212312X/standardista-21) Harvard: Harvard Business Review Classics.
++ Kelley, T., 2002. [The Art Of Innovation: Success Through Innovation the IDEO Way.](http://www.amazon.co.uk/exec/obidos/ASIN/186197583X/standardista-21) London: Profile Books.
++ Ries, E., 2011. [The Lean Startup: How Constant Innovation Creates Radically Successful Businesses.](http://www.amazon.co.uk/exec/obidos/ASIN/0670921602/standardista-21) London: Portfolio Penguin.
+	
+	
+###Recommended
+
+Anderson, C., 2009. [The Longer Long Tail: How Endless Choice is Creating Unlimited Demand.](http://www.amazon.co.uk/exec/obidos/ASIN/1847940366/standardista-21) London: Random House Business.
+Godin, S., 2007. [Small Is the New Big: And 183 Other Riffs, Rants, and Remarkable Business Ideas.](http://www.amazon.co.uk/exec/obidos/ASIN/0141030534/standardista-21) London: Penguin.
+Brown, T., 2009. [Change by Design: How Design Thinking Creates New Alternatives for Business and Society: How Design Thinking Can Transform Organizations and Inspire Innovation.](http://www.amazon.co.uk/exec/obidos/ASIN/0061766089/standardista-21) London: Collins Business.

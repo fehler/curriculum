@@ -54,7 +54,6 @@ Indicative lecture content includes:
 + Putting it all Together
 
 
-
 ##Reading List
 
 ###Required
@@ -68,11 +67,3 @@ Indicative lecture content includes:
 
 + McGrane, K., 2012. [Content Strategy for Mobile](http://www.abookapart.com/products/content-strategy-for-mobile) New York: A Book Apart.
 + Powers, D., 2010. [PHP Solutions: Dynamic Web Design Made Easy .](http://www.amazon.co.uk/exec/obidos/ASIN/1430232498/standardista-21) Berkeley: friends of ED.
-
-
-###Web Sites
-
-+ Codecademy, PHP Track: http://www.codecademy.com/tracks/php
-+ Foundational PHP: http://foundationphp.com/tutorials.php
-+ Smashing Coding: http://coding.smashingmagazine.com
-

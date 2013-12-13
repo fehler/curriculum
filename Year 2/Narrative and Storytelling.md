@@ -40,7 +40,6 @@ Students are supported through a weekly lecture programme that is designed to br
 
 Narratives unfold at both the macro level, between large masses of information, but also during small, tiny interactions. With this in mind, we explore how content can be shaped at different levels of magnification: from the canvas in, to the element out. We explore storytelling canvases and also consider the functional design of different interface elements, including: buttons, menus, input elements, navigation and other elements.
 
-
 Indicative lecture content includes:
 
 + Editorial Design
@@ -71,13 +70,3 @@ Indicative lecture content includes:
 London: John Wiley & Sons.
 + Head, V., 2013. [CSS Animations](http://www.fivesimplesteps.com/products/css-animations) Penarth: Five Simple Steps.
 + Flanagan, D., 2012. [JavaScript Pocket Reference.](http://www.amazon.co.uk/exec/obidos/ASIN/1449316859/standardista-21) San Francisco: O'Reilly.
-
-
-###Web Sites
-
-+ Transitional Interfaces: https://medium.com/design-ux/926eb80d64e3
-+ Motion and Animation: http://uxdesign.smashingmagazine.com/2012/10/30/motion-animation-new-mobile-ux-design-material/
-+ Building Animations Using Narrative Aesthetics: https://medium.com/design-ux/2c93ff54d4a3
-+ What are your transitions saying?: http://www.valhead.com/2013/11/25/what-are-your-transitions-saying/
-+ Elevating Narrative Within the Digital Space: https://social.ogilvy.com/elevating-narrative-within-the-digital-space/
-+ Storytelling on the Web: https://speakerdeck.com/senongo/storytelling-on-the-web-the-art-of-multi-screen-narrative

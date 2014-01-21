@@ -3,7 +3,7 @@ Combined Reading List
 
 <!-- This is incomplete, I'm gathering all of the course reading lists into one, combined, list here. I hope to have this completed by close of play on Tuesday, 21 January, 2014. -->
 
-We'd recommend the following books are read in alignment with the respective module content, however, this list provides a detailed overview of the BDes (Hons) Interaction Design course reading list, broken down by year.
+We'd recommend the following books are read in alignment with the respective module content, however, this list provides an overview of the BDes (Hons) Interaction Design course reading list, broken down by year.
 
 
 ##Year 1

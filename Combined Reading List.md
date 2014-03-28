@@ -207,3 +207,15 @@ In our final year, after students have returned from their placement year, we mo
 
 + Duarte, N., 2008. [slide:ology: The Art and Science of Creating Great Presentations.](http://www.amazon.co.uk/exec/obidos/ASIN/0596522347/monographic-21) San Francisco: O’Reilly Media.
 + Berkun, S., 2011. [Confessions of a Public Speaker.](http://www.amazon.co.uk/exec/obidos/ASIN/B002VL1CGM/monographic-21) San Francisco: O’Reilly Media.
+
+
+
+<!--
+
+Additional reading that might be worth considering, is available here:
+
+http://monographic.org/reading/
+
+It might be worth cross-referencing this list.
+
+-->

@@ -1,7 +1,7 @@
 Curriculum
 ==========
 
-In an effort to share best practice and develop the highest quality educational content possible, I’m opening up the process of developing a new BDes (Hons) Interaction Design course, which I’m developing at the University of Ulster.
+In an effort to share best practice and develop the highest quality educational content possible, I’m opening up the process of developing a new BDes (Hons) Interaction Design course, which I’m developing at the The Belfast School of Art.
 
 Web design education has, rightly, been criticised for its lack of engagement with industry; I believe sharing course content on GitHub can offer us new ways to engage with industry and with other educational institutes (not necessarily universities).
 
